@@ -2,7 +2,7 @@ import { clearbtnCallback, randomCallback } from "../stores/PixelPainterStore"
 
 const Utility = () => {
   const handleClick = () => {
-    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley");
+    window.open("https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=DeeckPeeck");
   };
   return (
     <div className="flex justify-center space-x-3">
